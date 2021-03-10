@@ -1,0 +1,46 @@
+figure{
+    margin: auto;
+    
+}
+img{
+    width: 2000px;
+    height: 500px;
+}
+.mansa{
+    margin: 0 auto;
+    width: 500px;
+    font: optional;
+    
+    
+
+}
+.ninki{
+    width: 600px;
+    
+}
+.image{
+    margin-left: -3rem;
+}
+blockquote{
+    border-left: 3px solid rgba(0, 0, 0, 0.452);
+    padding: 8px
+}
+.pp{
+    border-top: 2px solid rgba(0, 0, 255, 0.863);
+    border-bottom: 2px solid rgba(0, 0, 255, 0.829);
+    padding-top: 2.3rem;
+    padding-bottom: 2.3rem;
+    font-size: large;
+}
+.hp{
+    top: -330px;
+    position: relative;
+    margin-right: 10rem;
+    color:white;
+
+    
+}
+.top{
+    position: relative;
+    top: -160px;
+}
